@@ -14,7 +14,8 @@ client의 채팅로그
 
 </br>
 server의 채팅로그
-![image](https://user-images.githubusercontent.com/50867723/101315978-f74dee80-389e-11eb-9835-25499f53d1be.png)
+
+![image](https://user-images.githubusercontent.com/50867723/101316190-61669380-389f-11eb-8f35-82ff0b4152eb.png)
 
 </br>
 </br>
